@@ -1,0 +1,5 @@
+/Users/mondeeadmin/unity_end_ViReal/Unity/.utmp/RelWithDebInfo/4j2d2g3n/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mondeeadmin/unity_end_ViReal/Unity/.utmp/RelWithDebInfo/4j2d2g3n/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/mondeeadmin/unity_end_ViReal/Unity/.utmp/RelWithDebInfo/4j2d2g3n/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/mondeeadmin/unity_end_ViReal/Unity/.utmp/RelWithDebInfo/4j2d2g3n/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/mondeeadmin/unity_end_ViReal/Unity/.utmp/RelWithDebInfo/4j2d2g3n/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

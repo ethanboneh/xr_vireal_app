@@ -1,0 +1,7 @@
+<networking>
+    <http>
+        <allow>
+            <domain>3.145.161.54</domain>
+        </allow>
+    </http>
+</networking>
